@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{Chart.js, a81368914c, apexcharts, bootstrap, boxicons, canvasjs, ea88689856, font-awesome, iconify, jquery}" />
+  </component>
+</project>
